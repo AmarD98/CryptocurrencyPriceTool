@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cryptocurrency Price Tool</string>
+    <string name="title_activity_intropage">Intropage</string>
+</resources>
